@@ -1,0 +1,31 @@
+#app {
+  font-family: 'Avenir', Helvetica, Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  margin: 60px auto;
+  width: 50%;
+  color: #2c3e50;
+  line-height: 2.5rem;
+}
+
+hr {
+	border: none;
+	border-top: 3px solid #2c3e50;
+	margin: 60px auto;
+}
+
+pre {
+	border: 3px solid #2c3e50;
+	font-size: 1.1rem;
+	overflow-x: scroll;
+}
+
+code {
+	font-size: 1.1rem;
+}
+
+svg {
+	margin: 0 auto;
+	display: block;
+	border: 3px solid #41b883;
+}
