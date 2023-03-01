@@ -11,7 +11,7 @@
     "core-js": "^2.6.5",
     "d3": "^5.11.0",
     "intersection-observer": "^0.7.0",
-    "mapbox-gl": "^1.3.0",
+    "mapbox-gl": "^1.13.3",
     "scrollama": "^2.1.0",
     "vue": "^2.6.10"
   },
